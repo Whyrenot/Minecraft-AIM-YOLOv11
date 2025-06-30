@@ -13,3 +13,5 @@ Allows to increase the damage by automatically aiming to the closest player
 * Enter the name of the window to capture
 
 * Press 'J' to focus on the closest player
+
+# ![image](https://github.com/user-attachments/assets/3fa7deab-7638-40de-8fe3-bc1444e3d1d9)
